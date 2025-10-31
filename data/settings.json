@@ -1,0 +1,35 @@
+{
+  "record": false,
+
+  "output_path": "output/",
+  "sketch_name": "CornerPinSurfacesTemplate",
+
+  "gfx_width": 1920,
+  "gfx_height": 1080,
+
+  "surfaces": [
+    {
+      "w": 1920,
+      "h": 1080,
+      "res": 40,
+      "tx": 0,
+      "ty": 0,
+      "tw": 1920,
+      "th": 1080
+    }
+  ],
+
+  "keystone_data_path": "data/keystone.xml",
+  "keystone_data_load": true,
+
+  "background_image_path": "data/Canal_Yards_West.jpg",
+  "background_image_active": false,
+
+  "projector_brightness": 255,
+
+  "secondary_display": true,
+
+  "total_frames": 10,
+  "fps": 60,
+  "start_time": 0
+}
